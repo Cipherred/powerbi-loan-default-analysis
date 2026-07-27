@@ -26,4 +26,4 @@ This project presents an interactive Power BI dashboard developed to analyze loa
 - `Dashboard.png`
 - `Report.png`
 ![Dashboard](Dashboard.png)
-![Dashboard](Report.png)
+![Report](Report.png)
