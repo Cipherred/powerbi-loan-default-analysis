@@ -24,5 +24,6 @@ This project presents an interactive Power BI dashboard developed to analyze loa
 ## Repository Contents
 - `Loan Default Analysis.pbix`
 - `Dashboard.png`
-- `Report.pdf`
+- `Report.png`
 ![Dashboard](Dashboard.png)
+![Dashboard](Report.png)
