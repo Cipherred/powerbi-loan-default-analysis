@@ -1,3 +1,4 @@
+<img width="1055" height="1491" alt="Report" src="https://github.com/user-attachments/assets/ef728770-ccb8-4306-bb9b-403eed6572ff" />
 # Loan Default Analysis Dashboard
 
 ## Overview
